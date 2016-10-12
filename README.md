@@ -1,2 +1,2 @@
 # 1C
-This package is for different things for 1C
+Different data processors for the platform 1C version 8.3
